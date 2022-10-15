@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+main{
+    width: 1000px;
+    height: 500px;
+    background-color: red;
+    margin: 40px auto;
+}
+p{
+    text-align: center;
+    color: white;
+}
+a{
+    color: white;
+    text-align: center;
+}
